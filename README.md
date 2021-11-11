@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shadahmad7
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Cross Platform App Development
+- 🌱 I’m currently learning React Native 
 - 💞️ I’m looking to collaborate on React Native Projects
 - 📫 How to reach me Mail on : shad.ahmad0311@gmail.com
 
