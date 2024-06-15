@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @shadahmad7<br>👀 I’m interested in Web, Mobile App and Blockchain Development<br>🌱 I’m currently working in Next JS, React JS and Node JS.<br>💞️ I’m looking to collaborate on MERN stack and Blockchain projects.<br>🤔 I’m looking for help with Blockchain, AWS, DevOps and AI/ML.<br>💬 Ask me about Next JS, React, and Node JS.<br>📫 How to reach me Mail on : shad.ahmad0311@gmail.com<br>⚡ Fun fact: Nothing be limit, limit in your thoughts.
+👋 Hi, I’m @shadahmad7<br>👀 I’m interested in Web, Mobile App and Blockchain Development<br>🌱 I’m currently working in React Native, Next JS, React JS, and Node JS.<br>💞️ I’m looking to collaborate on MERN stack, React Native and Blockchain projects.<br>🤔 I’m looking for help with Blockchain, AWS, DevOps and Backend.<br>💬 Ask me about Next JS, React JS, and React Native.<br>📫 How to reach me Mail on : shad.ahmad0311@gmail.com<br>⚡ Fun fact: Nothing be limit, limit in your thoughts.
 
 
 ## 🌐 Socials:
